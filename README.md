@@ -1,3 +1,10 @@
+
+![standard](https://github.com/user-attachments/assets/9e35a498-1147-49ff-bc48-74d78a67758e)
+
+
+
+
+
 # Educational Discord RAT
 
 **⚠️ WARNING & DISCLAIMER**
