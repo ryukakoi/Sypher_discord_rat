@@ -12,7 +12,7 @@
 >
 > **Unauthorized use** of this tool on systems you do not own or have explicit permission to test is **ILLEGAL** and **UNETHICAL**. The developer assumes **no liability** for any misuse or damage caused by this software. You are solely responsible for ensuring your actions comply with applicable laws.
 
----
+--- 
 
 ## 📖 Overview
 
