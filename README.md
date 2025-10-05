@@ -9,7 +9,7 @@
 
 **⚠️ WARNING & DISCLAIMER**
 > This software is provided for **EDUCATIONAL PURPOSES ONLY**. It is intended for use in controlled, ethical environments to study cybersecurity principles, penetration testing, and defensive techniques.
->
+> 
 > **Unauthorized use** of this tool on systems you do not own or have explicit permission to test is **ILLEGAL** and **UNETHICAL**. The developer assumes **no liability** for any misuse or damage caused by this software. You are solely responsible for ensuring your actions comply with applicable laws.
  
 --- 
